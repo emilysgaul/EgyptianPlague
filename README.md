@@ -1,6 +1,6 @@
 # EgyptianPlague
 
-Here you can download the MALT bacterial database used in Gaul et al. (under review).
+Here you can download the MALT bacterial database used in Gaul, Mussauer, Paladin et al. (under review).
 
 **Download**
 
